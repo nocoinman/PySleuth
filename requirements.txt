@@ -13,7 +13,7 @@ psutil==5.7.3
 pynput==1.7.1
 python-dotenv==0.15.0
 python-xlib==0.28
-PyYAML==5.3.1
+PyYAML==5.4
 six==1.15.0
 telepot==12.7
 typing-extensions==3.7.4.3
