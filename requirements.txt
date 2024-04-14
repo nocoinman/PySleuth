@@ -5,7 +5,7 @@ chardet==3.0.4
 dacite==1.5.1
 dataclasses==0.7
 evdev==1.3.0
-idna==2.10
+idna==3.7
 idna-ssl==1.1.0
 multidict==5.0.0
 Pillow==8.2.0
