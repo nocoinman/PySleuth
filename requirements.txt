@@ -17,5 +17,5 @@ PyYAML==5.4
 six==1.15.0
 telepot==12.7
 typing-extensions==3.7.4.3
-urllib3==1.26.5
+urllib3==1.26.19
 yarl==1.6.2
